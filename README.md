@@ -1,5 +1,5 @@
 # luchavor
-Graph Based Theat Hunting App 
+Graph Based Theat Hunting App  
 
 ## App Screenshots
 
