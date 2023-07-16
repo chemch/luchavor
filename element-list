@@ -36,8 +36,6 @@ com.luchavor.datamodel.util.transform.event
 com.luchavor.neo4japi
 com.luchavor.neo4japi.controller
 com.luchavor.neo4japi.converter
-com.luchavor.neo4japi.model.technique
-com.luchavor.neo4japi.model.techniquegroup
 com.luchavor.neo4japi.persistence.event
 com.luchavor.neo4japi.persistence.technique
 com.luchavor.neo4japi.persistence.techniquegroup
